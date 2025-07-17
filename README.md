@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Angular, React**
 
-- 👨‍💻 All of my projects are available in my [Portfolio](https://portafolio-anthony-avellaneda.netlify.app/#projects)
+- 👨‍💻 All of my projects are available in my [Portfolio](https://portafolio-anthony-avellaneda.vercel.app/#projects)
 
 - 💬 Ask me about **JavaScript, Python, Java**
 
